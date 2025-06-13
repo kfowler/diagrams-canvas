@@ -36,6 +36,6 @@ Library
                        text >= 1.0 && < 2.2,
                        data-default >= 0.8 && < 0.9,
                        statestack >= 0.2 && <0.4,
-                       optparse-applicative >= 0.13 && < 0.19
+                       optparse-applicative >= 0.13 && < 0.20
 
   Default-language:    Haskell2010
